@@ -1,0 +1,21 @@
+*{
+
+}
+
+
+
+label{
+    display: block;
+}
+.texto, .email, .sexo, .caixa{
+    margin-top: 20px;
+}
+#caixa{
+    margin-top: 5px;
+}
+.caixa{
+    padding-left: 10px;
+}
+#email, #nome{
+    width: 300px;
+}
